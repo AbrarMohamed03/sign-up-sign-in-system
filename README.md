@@ -25,7 +25,7 @@ A simple web application that allows users to sign up and sign in to the system 
 
 
 ```bash
-  gh repo clone DexTer-9/sign-up-sign-in-system
+  git clone https://github.com/DexTer-9/sign-up-sign-in-system.git
 ```
 
 2. Create a database using MySQL and import the `serinfo.sql` file from the repository to your database.
